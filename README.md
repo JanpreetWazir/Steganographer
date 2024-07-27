@@ -1,0 +1,1 @@
+Add uploads folder also
